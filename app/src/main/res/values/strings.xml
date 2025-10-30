@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">slideshow</string>
+    <string name= "enter_number">Enter slide #</string>
+</resources>
